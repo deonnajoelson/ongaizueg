@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://viemutiqu.qingyongai.com/sitemap.xml
